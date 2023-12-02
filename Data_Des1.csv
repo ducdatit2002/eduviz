@@ -1,0 +1,1423 @@
+﻿Subject,Score,ExamineeNumber
+Math,0,3
+Math,0.2,0
+Math,0.25,0
+Math,0.4,1
+Math,0.5,0
+Math,0.6,0
+Math,0.75,0
+Math,1,1
+Math,1.2,1
+Math,1.25,0
+Math,1.4,9
+Math,1.5,0
+Math,1.6,17
+Math,1.75,0
+Math,1.8,33
+Math,2,33
+Math,2.2,55
+Math,2.25,0
+Math,2.4,57
+Math,2.5,0
+Math,2.6,88
+Math,2.75,0
+Math,2.8,98
+Math,3,140
+Math,3.2,153
+Math,3.25,0
+Math,3.4,162
+Math,3.5,0
+Math,3.6,231
+Math,3.75,0
+Math,3.8,252
+Math,3.83,0
+Math,3.92,0
+Math,4,325
+Math,4.08,0
+Math,4.16,0
+Math,4.2,385
+Math,4.25,0
+Math,4.33,0
+Math,4.4,517
+Math,4.41,0
+Math,4.42,0
+Math,4.5,0
+Math,4.58,0
+Math,4.6,582
+Math,4.67,0
+Math,4.68,0
+Math,4.75,0
+Math,4.8,710
+Math,4.83,0
+Math,4.9,0
+Math,4.91,0
+Math,4.92,0
+Math,5,756
+Math,5.08,0
+Math,5.1,0
+Math,5.16,0
+Math,5.17,0
+Math,5.2,1035
+Math,5.25,0
+Math,5.3,0
+Math,5.33,0
+Math,5.34,0
+Math,5.4,1124
+Math,5.41,0
+Math,5.42,0
+Math,5.5,0
+Math,5.58,0
+Math,5.59,0
+Math,5.6,1320
+Math,5.65,0
+Math,5.66,0
+Math,5.67,0
+Math,5.75,0
+Math,5.8,1542
+Math,5.83,0
+Math,5.91,0
+Math,5.92,0
+Math,5.93,0
+Math,5.95,0
+Math,6,1847
+Math,6.08,0
+Math,6.1,0
+Math,6.15,0
+Math,6.16,0
+Math,6.17,0
+Math,6.2,2117
+Math,6.25,0
+Math,6.3,0
+Math,6.32,0
+Math,6.33,0
+Math,6.34,0
+Math,6.4,2433
+Math,6.41,0
+Math,6.42,0
+Math,6.43,0
+Math,6.45,0
+Math,6.47,0
+Math,6.5,0
+Math,6.56,0
+Math,6.58,0
+Math,6.6,2908
+Math,6.66,0
+Math,6.67,0
+Math,6.75,0
+Math,6.8,3361
+Math,6.83,0
+Math,6.91,0
+Math,6.92,0
+Math,7,3848
+Math,7.08,0
+Math,7.1,0
+Math,7.12,0
+Math,7.14,0
+Math,7.16,0
+Math,7.17,0
+Math,7.19,0
+Math,7.2,4392
+Math,7.25,0
+Math,7.3,0
+Math,7.33,0
+Math,7.34,0
+Math,7.4,4829
+Math,7.41,0
+Math,7.42,0
+Math,7.5,0
+Math,7.58,0
+Math,7.6,5144
+Math,7.66,0
+Math,7.67,0
+Math,7.75,0
+Math,7.8,5207
+Math,7.82,0
+Math,7.83,0
+Math,7.91,0
+Math,7.92,0
+Math,8,5047
+Math,8.08,0
+Math,8.16,0
+Math,8.17,0
+Math,8.2,5008
+Math,8.25,0
+Math,8.33,0
+Math,8.4,4442
+Math,8.5,0
+Math,8.58,0
+Math,8.6,4038
+Math,8.75,0
+Math,8.8,3552
+Math,8.83,0
+Math,9,2820
+Math,9.2,1971
+Math,9.25,0
+Math,9.4,1044
+Math,9.5,0
+Math,9.6,408
+Math,9.75,0
+Math,9.8,133
+Literature,0,1
+Literature,0.2,0
+Literature,0.25,1
+Literature,0.4,0
+Literature,0.5,0
+Literature,0.6,0
+Literature,0.75,0
+Literature,1,1
+Literature,1.2,0
+Literature,1.25,1
+Literature,1.4,0
+Literature,1.5,3
+Literature,1.6,0
+Literature,1.75,3
+Literature,1.8,0
+Literature,2,13
+Literature,2.2,0
+Literature,2.25,13
+Literature,2.4,0
+Literature,2.5,13
+Literature,2.6,0
+Literature,2.75,30
+Literature,2.8,0
+Literature,3,43
+Literature,3.2,0
+Literature,3.25,65
+Literature,3.4,0
+Literature,3.5,114
+Literature,3.6,0
+Literature,3.75,176
+Literature,3.8,0
+Literature,3.83,1
+Literature,3.92,1
+Literature,4,303
+Literature,4.08,3
+Literature,4.16,1
+Literature,4.2,0
+Literature,4.25,324
+Literature,4.33,4
+Literature,4.4,0
+Literature,4.41,2
+Literature,4.42,1
+Literature,4.5,514
+Literature,4.58,1
+Literature,4.6,1
+Literature,4.67,4
+Literature,4.68,1
+Literature,4.75,549
+Literature,4.8,1
+Literature,4.83,2
+Literature,4.9,1
+Literature,4.91,4
+Literature,4.92,2
+Literature,5,1210
+Literature,5.08,9
+Literature,5.1,2
+Literature,5.16,4
+Literature,5.17,5
+Literature,5.2,2
+Literature,5.25,1432
+Literature,5.3,1
+Literature,5.33,9
+Literature,5.34,1
+Literature,5.4,0
+Literature,5.41,7
+Literature,5.42,1
+Literature,5.5,2441
+Literature,5.58,9
+Literature,5.59,1
+Literature,5.6,2
+Literature,5.65,1
+Literature,5.66,2
+Literature,5.67,8
+Literature,5.75,3132
+Literature,5.8,0
+Literature,5.83,16
+Literature,5.91,5
+Literature,5.92,21
+Literature,5.93,1
+Literature,5.95,1
+Literature,6,5153
+Literature,6.08,29
+Literature,6.1,1
+Literature,6.15,1
+Literature,6.16,9
+Literature,6.17,16
+Literature,6.2,3
+Literature,6.25,5802
+Literature,6.3,16
+Literature,6.32,1
+Literature,6.33,27
+Literature,6.34,2
+Literature,6.4,1
+Literature,6.41,11
+Literature,6.42,26
+Literature,6.43,2
+Literature,6.45,1
+Literature,6.47,1
+Literature,6.5,8120
+Literature,6.56,1
+Literature,6.58,57
+Literature,6.6,13
+Literature,6.66,5
+Literature,6.67,13
+Literature,6.75,8135
+Literature,6.8,6
+Literature,6.83,45
+Literature,6.91,14
+Literature,6.92,17
+Literature,7,9526
+Literature,7.08,35
+Literature,7.1,2
+Literature,7.12,2
+Literature,7.14,1
+Literature,7.16,17
+Literature,7.17,7
+Literature,7.19,1
+Literature,7.2,0
+Literature,7.25,7362
+Literature,7.3,10
+Literature,7.33,15
+Literature,7.34,1
+Literature,7.4,0
+Literature,7.41,8
+Literature,7.42,12
+Literature,7.5,6940
+Literature,7.58,10
+Literature,7.6,3
+Literature,7.66,2
+Literature,7.67,10
+Literature,7.75,4504
+Literature,7.8,1
+Literature,7.82,1
+Literature,7.83,10
+Literature,7.91,3
+Literature,7.92,2
+Literature,8,3323
+Literature,8.08,5
+Literature,8.16,2
+Literature,8.17,1
+Literature,8.2,0
+Literature,8.25,1582
+Literature,8.33,3
+Literature,8.4,0
+Literature,8.5,869
+Literature,8.58,1
+Literature,8.6,0
+Literature,8.75,258
+Literature,8.8,0
+Literature,8.83,1
+Literature,9,59
+Literature,9.2,0
+Literature,9.25,5
+Literature,9.4,0
+Literature,9.5,0
+Literature,9.6,0
+Literature,9.75,0
+Literature,9.8,0
+History,0,4
+History,0.2,0
+History,0.25,0
+History,0.4,0
+History,0.5,0
+History,0.6,0
+History,0.75,1
+History,1,5
+History,1.2,0
+History,1.25,4
+History,1.4,0
+History,1.5,15
+History,1.6,0
+History,1.75,37
+History,1.8,0
+History,2,66
+History,2.2,0
+History,2.25,121
+History,2.4,0
+History,2.5,235
+History,2.6,0
+History,2.75,395
+History,2.8,0
+History,3,558
+History,3.2,0
+History,3.25,829
+History,3.4,0
+History,3.5,1079
+History,3.6,0
+History,3.75,1340
+History,3.8,0
+History,3.83,0
+History,3.92,0
+History,4,1690
+History,4.08,0
+History,4.16,0
+History,4.2,0
+History,4.25,1735
+History,4.33,0
+History,4.4,0
+History,4.41,0
+History,4.42,0
+History,4.5,1916
+History,4.58,0
+History,4.6,0
+History,4.67,0
+History,4.68,0
+History,4.75,2035
+History,4.8,0
+History,4.83,0
+History,4.9,0
+History,4.91,0
+History,4.92,0
+History,5,2162
+History,5.08,0
+History,5.1,0
+History,5.16,0
+History,5.17,0
+History,5.2,0
+History,5.25,1919
+History,5.3,0
+History,5.33,0
+History,5.34,0
+History,5.4,0
+History,5.41,0
+History,5.42,0
+History,5.5,1873
+History,5.58,0
+History,5.59,0
+History,5.6,0
+History,5.65,0
+History,5.66,0
+History,5.67,0
+History,5.75,1822
+History,5.8,0
+History,5.83,0
+History,5.91,0
+History,5.92,0
+History,5.93,0
+History,5.95,0
+History,6,1592
+History,6.08,0
+History,6.1,0
+History,6.15,0
+History,6.16,0
+History,6.17,0
+History,6.2,0
+History,6.25,1365
+History,6.3,0
+History,6.32,0
+History,6.33,0
+History,6.34,0
+History,6.4,0
+History,6.41,0
+History,6.42,0
+History,6.43,0
+History,6.45,0
+History,6.47,0
+History,6.5,1270
+History,6.56,0
+History,6.58,0
+History,6.6,0
+History,6.66,0
+History,6.67,0
+History,6.75,1150
+History,6.8,0
+History,6.83,0
+History,6.91,0
+History,6.92,0
+History,7,999
+History,7.08,0
+History,7.1,0
+History,7.12,0
+History,7.14,0
+History,7.16,0
+History,7.17,0
+History,7.19,0
+History,7.2,0
+History,7.25,815
+History,7.3,0
+History,7.33,0
+History,7.34,0
+History,7.4,0
+History,7.41,0
+History,7.42,0
+History,7.5,722
+History,7.58,0
+History,7.6,0
+History,7.66,0
+History,7.67,0
+History,7.75,581
+History,7.8,0
+History,7.82,0
+History,7.83,0
+History,7.91,0
+History,7.92,0
+History,8,497
+History,8.08,0
+History,8.16,0
+History,8.17,0
+History,8.2,0
+History,8.25,422
+History,8.33,0
+History,8.4,0
+History,8.5,328
+History,8.58,0
+History,8.6,0
+History,8.75,270
+History,8.8,0
+History,8.83,0
+History,9,212
+History,9.2,0
+History,9.25,142
+History,9.4,0
+History,9.5,73
+History,9.6,0
+History,9.75,34
+History,9.8,0
+Geography,0,9
+Geography,0.2,0
+Geography,0.25,1
+Geography,0.4,0
+Geography,0.5,0
+Geography,0.6,0
+Geography,0.75,3
+Geography,1,0
+Geography,1.2,0
+Geography,1.25,1
+Geography,1.4,0
+Geography,1.5,0
+Geography,1.6,0
+Geography,1.75,0
+Geography,1.8,0
+Geography,2,0
+Geography,2.2,0
+Geography,2.25,4
+Geography,2.4,0
+Geography,2.5,5
+Geography,2.6,0
+Geography,2.75,16
+Geography,2.8,0
+Geography,3,16
+Geography,3.2,0
+Geography,3.25,28
+Geography,3.4,0
+Geography,3.5,38
+Geography,3.6,0
+Geography,3.75,56
+Geography,3.8,0
+Geography,3.83,0
+Geography,3.92,0
+Geography,4,85
+Geography,4.08,0
+Geography,4.16,0
+Geography,4.2,0
+Geography,4.25,138
+Geography,4.33,0
+Geography,4.4,0
+Geography,4.41,0
+Geography,4.42,0
+Geography,4.5,240
+Geography,4.58,0
+Geography,4.6,0
+Geography,4.67,0
+Geography,4.68,0
+Geography,4.75,369
+Geography,4.8,0
+Geography,4.83,0
+Geography,4.9,0
+Geography,4.91,0
+Geography,4.92,0
+Geography,5,505
+Geography,5.08,0
+Geography,5.1,0
+Geography,5.16,0
+Geography,5.17,0
+Geography,5.2,0
+Geography,5.25,738
+Geography,5.3,0
+Geography,5.33,0
+Geography,5.34,0
+Geography,5.4,0
+Geography,5.41,0
+Geography,5.42,0
+Geography,5.5,1073
+Geography,5.58,0
+Geography,5.59,0
+Geography,5.6,0
+Geography,5.65,0
+Geography,5.66,0
+Geography,5.67,0
+Geography,5.75,1412
+Geography,5.8,0
+Geography,5.83,0
+Geography,5.91,0
+Geography,5.92,0
+Geography,5.93,0
+Geography,5.95,0
+Geography,6,1772
+Geography,6.08,0
+Geography,6.1,0
+Geography,6.15,0
+Geography,6.16,0
+Geography,6.17,0
+Geography,6.2,0
+Geography,6.25,2194
+Geography,6.3,0
+Geography,6.32,0
+Geography,6.33,0
+Geography,6.34,0
+Geography,6.4,0
+Geography,6.41,0
+Geography,6.42,0
+Geography,6.43,0
+Geography,6.45,0
+Geography,6.47,0
+Geography,6.5,2537
+Geography,6.56,0
+Geography,6.58,0
+Geography,6.6,0
+Geography,6.66,0
+Geography,6.67,0
+Geography,6.75,2731
+Geography,6.8,0
+Geography,6.83,0
+Geography,6.91,0
+Geography,6.92,0
+Geography,7,2867
+Geography,7.08,0
+Geography,7.1,0
+Geography,7.12,0
+Geography,7.14,0
+Geography,7.16,0
+Geography,7.17,0
+Geography,7.19,0
+Geography,7.2,0
+Geography,7.25,3066
+Geography,7.3,0
+Geography,7.33,0
+Geography,7.34,0
+Geography,7.4,0
+Geography,7.41,0
+Geography,7.42,0
+Geography,7.5,2703
+Geography,7.58,0
+Geography,7.6,0
+Geography,7.66,0
+Geography,7.67,0
+Geography,7.75,2362
+Geography,7.8,0
+Geography,7.82,0
+Geography,7.83,0
+Geography,7.91,0
+Geography,7.92,0
+Geography,8,1815
+Geography,8.08,0
+Geography,8.16,0
+Geography,8.17,0
+Geography,8.2,0
+Geography,8.25,1271
+Geography,8.33,0
+Geography,8.4,0
+Geography,8.5,778
+Geography,8.58,0
+Geography,8.6,0
+Geography,8.75,447
+Geography,8.8,0
+Geography,8.83,0
+Geography,9,211
+Geography,9.2,0
+Geography,9.25,72
+Geography,9.4,0
+Geography,9.5,20
+Geography,9.6,0
+Geography,9.75,14
+Geography,9.8,0
+Civic,0,6
+Civic,0.2,0
+Civic,0.25,0
+Civic,0.4,0
+Civic,0.5,0
+Civic,0.6,0
+Civic,0.75,0
+Civic,1,0
+Civic,1.2,0
+Civic,1.25,0
+Civic,1.4,0
+Civic,1.5,0
+Civic,1.6,0
+Civic,1.75,0
+Civic,1.8,0
+Civic,2,0
+Civic,2.2,0
+Civic,2.25,2
+Civic,2.4,0
+Civic,2.5,4
+Civic,2.6,0
+Civic,2.75,2
+Civic,2.8,0
+Civic,3,0
+Civic,3.2,0
+Civic,3.25,0
+Civic,3.4,0
+Civic,3.5,3
+Civic,3.6,0
+Civic,3.75,3
+Civic,3.8,0
+Civic,3.83,0
+Civic,3.92,0
+Civic,4,9
+Civic,4.08,0
+Civic,4.16,0
+Civic,4.2,0
+Civic,4.25,7
+Civic,4.33,0
+Civic,4.4,0
+Civic,4.41,0
+Civic,4.42,0
+Civic,4.5,7
+Civic,4.58,0
+Civic,4.6,0
+Civic,4.67,0
+Civic,4.68,0
+Civic,4.75,17
+Civic,4.8,0
+Civic,4.83,0
+Civic,4.9,0
+Civic,4.91,0
+Civic,4.92,0
+Civic,5,24
+Civic,5.08,0
+Civic,5.1,0
+Civic,5.16,0
+Civic,5.17,0
+Civic,5.2,0
+Civic,5.25,35
+Civic,5.3,0
+Civic,5.33,0
+Civic,5.34,0
+Civic,5.4,0
+Civic,5.41,0
+Civic,5.42,0
+Civic,5.5,72
+Civic,5.58,0
+Civic,5.59,0
+Civic,5.6,0
+Civic,5.65,0
+Civic,5.66,0
+Civic,5.67,0
+Civic,5.75,100
+Civic,5.8,0
+Civic,5.83,0
+Civic,5.91,0
+Civic,5.92,0
+Civic,5.93,0
+Civic,5.95,0
+Civic,6,181
+Civic,6.08,0
+Civic,6.1,0
+Civic,6.15,0
+Civic,6.16,0
+Civic,6.17,0
+Civic,6.2,0
+Civic,6.25,277
+Civic,6.3,0
+Civic,6.32,0
+Civic,6.33,0
+Civic,6.34,0
+Civic,6.4,0
+Civic,6.41,0
+Civic,6.42,0
+Civic,6.43,0
+Civic,6.45,0
+Civic,6.47,0
+Civic,6.5,331
+Civic,6.56,0
+Civic,6.58,0
+Civic,6.6,0
+Civic,6.66,0
+Civic,6.67,0
+Civic,6.75,503
+Civic,6.8,0
+Civic,6.83,0
+Civic,6.91,0
+Civic,6.92,0
+Civic,7,743
+Civic,7.08,0
+Civic,7.1,0
+Civic,7.12,0
+Civic,7.14,0
+Civic,7.16,0
+Civic,7.17,0
+Civic,7.19,0
+Civic,7.2,0
+Civic,7.25,1060
+Civic,7.3,0
+Civic,7.33,0
+Civic,7.34,0
+Civic,7.4,0
+Civic,7.41,0
+Civic,7.42,0
+Civic,7.5,1447
+Civic,7.58,0
+Civic,7.6,0
+Civic,7.66,0
+Civic,7.67,0
+Civic,7.75,1870
+Civic,7.8,0
+Civic,7.82,0
+Civic,7.83,0
+Civic,7.91,0
+Civic,7.92,0
+Civic,8,2341
+Civic,8.08,0
+Civic,8.16,0
+Civic,8.17,0
+Civic,8.2,0
+Civic,8.25,2669
+Civic,8.33,0
+Civic,8.4,0
+Civic,8.5,3011
+Civic,8.58,0
+Civic,8.6,0
+Civic,8.75,3161
+Civic,8.8,0
+Civic,8.83,0
+Civic,9,2911
+Civic,9.2,0
+Civic,9.25,2281
+Civic,9.4,0
+Civic,9.5,1391
+Civic,9.6,0
+Civic,9.75,623
+Civic,9.8,0
+Biography,0,5
+Biography,0.2,0
+Biography,0.25,1
+Biography,0.4,0
+Biography,0.5,0
+Biography,0.6,0
+Biography,0.75,0
+Biography,1,0
+Biography,1.2,0
+Biography,1.25,2
+Biography,1.4,0
+Biography,1.5,7
+Biography,1.6,0
+Biography,1.75,14
+Biography,1.8,0
+Biography,2,20
+Biography,2.2,0
+Biography,2.25,37
+Biography,2.4,0
+Biography,2.5,98
+Biography,2.6,0
+Biography,2.75,179
+Biography,2.8,0
+Biography,3,317
+Biography,3.2,0
+Biography,3.25,515
+Biography,3.4,0
+Biography,3.5,736
+Biography,3.6,0
+Biography,3.75,1048
+Biography,3.8,0
+Biography,3.83,0
+Biography,3.92,0
+Biography,4,1500
+Biography,4.08,0
+Biography,4.16,0
+Biography,4.2,0
+Biography,4.25,1963
+Biography,4.33,0
+Biography,4.4,0
+Biography,4.41,0
+Biography,4.42,0
+Biography,4.5,2350
+Biography,4.58,0
+Biography,4.6,0
+Biography,4.67,0
+Biography,4.68,0
+Biography,4.75,2710
+Biography,4.8,0
+Biography,4.83,0
+Biography,4.9,0
+Biography,4.91,0
+Biography,4.92,0
+Biography,5,3237
+Biography,5.08,0
+Biography,5.1,0
+Biography,5.16,0
+Biography,5.17,0
+Biography,5.2,0
+Biography,5.25,3491
+Biography,5.3,0
+Biography,5.33,0
+Biography,5.34,0
+Biography,5.4,0
+Biography,5.41,0
+Biography,5.42,0
+Biography,5.5,3522
+Biography,5.58,0
+Biography,5.59,0
+Biography,5.6,0
+Biography,5.65,0
+Biography,5.66,0
+Biography,5.67,0
+Biography,5.75,3434
+Biography,5.8,0
+Biography,5.83,0
+Biography,5.91,0
+Biography,5.92,0
+Biography,5.93,0
+Biography,5.95,0
+Biography,6,3285
+Biography,6.08,0
+Biography,6.1,0
+Biography,6.15,0
+Biography,6.16,0
+Biography,6.17,0
+Biography,6.2,0
+Biography,6.25,2848
+Biography,6.3,0
+Biography,6.32,0
+Biography,6.33,0
+Biography,6.34,0
+Biography,6.4,0
+Biography,6.41,0
+Biography,6.42,0
+Biography,6.43,0
+Biography,6.45,0
+Biography,6.47,0
+Biography,6.5,2457
+Biography,6.56,0
+Biography,6.58,0
+Biography,6.6,0
+Biography,6.66,0
+Biography,6.67,0
+Biography,6.75,2128
+Biography,6.8,0
+Biography,6.83,0
+Biography,6.91,0
+Biography,6.92,0
+Biography,7,1603
+Biography,7.08,0
+Biography,7.1,0
+Biography,7.12,0
+Biography,7.14,0
+Biography,7.16,0
+Biography,7.17,0
+Biography,7.19,0
+Biography,7.2,0
+Biography,7.25,1191
+Biography,7.3,0
+Biography,7.33,0
+Biography,7.34,0
+Biography,7.4,0
+Biography,7.41,0
+Biography,7.42,0
+Biography,7.5,946
+Biography,7.58,0
+Biography,7.6,0
+Biography,7.66,0
+Biography,7.67,0
+Biography,7.75,722
+Biography,7.8,0
+Biography,7.82,0
+Biography,7.83,0
+Biography,7.91,0
+Biography,7.92,0
+Biography,8,567
+Biography,8.08,0
+Biography,8.16,0
+Biography,8.17,0
+Biography,8.2,0
+Biography,8.25,465
+Biography,8.33,0
+Biography,8.4,0
+Biography,8.5,350
+Biography,8.58,0
+Biography,8.6,0
+Biography,8.75,300
+Biography,8.8,0
+Biography,8.83,0
+Biography,9,260
+Biography,9.2,0
+Biography,9.25,153
+Biography,9.4,0
+Biography,9.5,99
+Biography,9.6,0
+Biography,9.75,35
+Biography,9.8,0
+Physics,0,3
+Physics,0.2,0
+Physics,0.25,0
+Physics,0.4,0
+Physics,0.5,0
+Physics,0.6,0
+Physics,0.75,1
+Physics,1,2
+Physics,1.2,0
+Physics,1.25,1
+Physics,1.4,0
+Physics,1.5,17
+Physics,1.6,0
+Physics,1.75,22
+Physics,1.8,0
+Physics,2,50
+Physics,2.2,0
+Physics,2.25,89
+Physics,2.4,0
+Physics,2.5,112
+Physics,2.6,0
+Physics,2.75,169
+Physics,2.8,0
+Physics,3,245
+Physics,3.2,0
+Physics,3.25,266
+Physics,3.4,0
+Physics,3.5,385
+Physics,3.6,0
+Physics,3.75,471
+Physics,3.8,0
+Physics,3.83,0
+Physics,3.92,0
+Physics,4,610
+Physics,4.08,0
+Physics,4.16,0
+Physics,4.2,0
+Physics,4.25,693
+Physics,4.33,0
+Physics,4.4,0
+Physics,4.41,0
+Physics,4.42,0
+Physics,4.5,872
+Physics,4.58,0
+Physics,4.6,0
+Physics,4.67,0
+Physics,4.68,0
+Physics,4.75,1073
+Physics,4.8,0
+Physics,4.83,0
+Physics,4.9,0
+Physics,4.91,0
+Physics,4.92,0
+Physics,5,1272
+Physics,5.08,0
+Physics,5.1,0
+Physics,5.16,0
+Physics,5.17,0
+Physics,5.2,0
+Physics,5.25,1611
+Physics,5.3,0
+Physics,5.33,0
+Physics,5.34,0
+Physics,5.4,0
+Physics,5.41,0
+Physics,5.42,0
+Physics,5.5,1869
+Physics,5.58,0
+Physics,5.59,0
+Physics,5.6,0
+Physics,5.65,0
+Physics,5.66,0
+Physics,5.67,0
+Physics,5.75,2095
+Physics,5.8,0
+Physics,5.83,0
+Physics,5.91,0
+Physics,5.92,0
+Physics,5.93,0
+Physics,5.95,0
+Physics,6,2315
+Physics,6.08,0
+Physics,6.1,0
+Physics,6.15,0
+Physics,6.16,0
+Physics,6.17,0
+Physics,6.2,0
+Physics,6.25,2542
+Physics,6.3,0
+Physics,6.32,0
+Physics,6.33,0
+Physics,6.34,0
+Physics,6.4,0
+Physics,6.41,0
+Physics,6.42,0
+Physics,6.43,0
+Physics,6.45,0
+Physics,6.47,0
+Physics,6.5,2792
+Physics,6.56,0
+Physics,6.58,0
+Physics,6.6,0
+Physics,6.66,0
+Physics,6.67,0
+Physics,6.75,3087
+Physics,6.8,0
+Physics,6.83,0
+Physics,6.91,0
+Physics,6.92,0
+Physics,7,3105
+Physics,7.08,0
+Physics,7.1,0
+Physics,7.12,0
+Physics,7.14,0
+Physics,7.16,0
+Physics,7.17,0
+Physics,7.19,0
+Physics,7.2,0
+Physics,7.25,3354
+Physics,7.3,0
+Physics,7.33,0
+Physics,7.34,0
+Physics,7.4,0
+Physics,7.41,0
+Physics,7.42,0
+Physics,7.5,3280
+Physics,7.58,0
+Physics,7.6,0
+Physics,7.66,0
+Physics,7.67,0
+Physics,7.75,3055
+Physics,7.8,0
+Physics,7.82,0
+Physics,7.83,0
+Physics,7.91,0
+Physics,7.92,0
+Physics,8,2619
+Physics,8.08,0
+Physics,8.16,0
+Physics,8.17,0
+Physics,8.2,0
+Physics,8.25,2061
+Physics,8.33,0
+Physics,8.4,0
+Physics,8.5,1396
+Physics,8.58,0
+Physics,8.6,0
+Physics,8.75,765
+Physics,8.8,0
+Physics,8.83,0
+Physics,9,382
+Physics,9.2,0
+Physics,9.25,144
+Physics,9.4,0
+Physics,9.5,23
+Physics,9.6,0
+Physics,9.75,5
+Physics,9.8,0
+Chemistry,0,6
+Chemistry,0.2,0
+Chemistry,0.25,0
+Chemistry,0.4,0
+Chemistry,0.5,1
+Chemistry,0.6,0
+Chemistry,0.75,1
+Chemistry,1,2
+Chemistry,1.2,0
+Chemistry,1.25,2
+Chemistry,1.4,0
+Chemistry,1.5,4
+Chemistry,1.6,0
+Chemistry,1.75,9
+Chemistry,1.8,0
+Chemistry,2,28
+Chemistry,2.2,0
+Chemistry,2.25,46
+Chemistry,2.4,0
+Chemistry,2.5,56
+Chemistry,2.6,0
+Chemistry,2.75,132
+Chemistry,2.8,0
+Chemistry,3,188
+Chemistry,3.2,0
+Chemistry,3.25,277
+Chemistry,3.4,0
+Chemistry,3.5,370
+Chemistry,3.6,0
+Chemistry,3.75,542
+Chemistry,3.8,0
+Chemistry,3.83,0
+Chemistry,3.92,0
+Chemistry,4,707
+Chemistry,4.08,0
+Chemistry,4.16,0
+Chemistry,4.2,0
+Chemistry,4.25,888
+Chemistry,4.33,0
+Chemistry,4.4,0
+Chemistry,4.41,0
+Chemistry,4.42,0
+Chemistry,4.5,1112
+Chemistry,4.58,0
+Chemistry,4.6,0
+Chemistry,4.67,0
+Chemistry,4.68,0
+Chemistry,4.75,1367
+Chemistry,4.8,0
+Chemistry,4.83,0
+Chemistry,4.9,0
+Chemistry,4.91,0
+Chemistry,4.92,0
+Chemistry,5,1523
+Chemistry,5.08,0
+Chemistry,5.1,0
+Chemistry,5.16,0
+Chemistry,5.17,0
+Chemistry,5.2,0
+Chemistry,5.25,1676
+Chemistry,5.3,0
+Chemistry,5.33,0
+Chemistry,5.34,0
+Chemistry,5.4,0
+Chemistry,5.41,0
+Chemistry,5.42,0
+Chemistry,5.5,1857
+Chemistry,5.58,0
+Chemistry,5.59,0
+Chemistry,5.6,0
+Chemistry,5.65,0
+Chemistry,5.66,0
+Chemistry,5.67,0
+Chemistry,5.75,2033
+Chemistry,5.8,0
+Chemistry,5.83,0
+Chemistry,5.91,0
+Chemistry,5.92,0
+Chemistry,5.93,0
+Chemistry,5.95,0
+Chemistry,6,2229
+Chemistry,6.08,0
+Chemistry,6.1,0
+Chemistry,6.15,0
+Chemistry,6.16,0
+Chemistry,6.17,0
+Chemistry,6.2,0
+Chemistry,6.25,2333
+Chemistry,6.3,0
+Chemistry,6.32,0
+Chemistry,6.33,0
+Chemistry,6.34,0
+Chemistry,6.4,0
+Chemistry,6.41,0
+Chemistry,6.42,0
+Chemistry,6.43,0
+Chemistry,6.45,0
+Chemistry,6.47,0
+Chemistry,6.5,2509
+Chemistry,6.56,0
+Chemistry,6.58,0
+Chemistry,6.6,0
+Chemistry,6.66,0
+Chemistry,6.67,0
+Chemistry,6.75,2627
+Chemistry,6.8,0
+Chemistry,6.83,0
+Chemistry,6.91,0
+Chemistry,6.92,0
+Chemistry,7,2748
+Chemistry,7.08,0
+Chemistry,7.1,0
+Chemistry,7.12,0
+Chemistry,7.14,0
+Chemistry,7.16,0
+Chemistry,7.17,0
+Chemistry,7.19,0
+Chemistry,7.2,0
+Chemistry,7.25,2884
+Chemistry,7.3,0
+Chemistry,7.33,0
+Chemistry,7.34,0
+Chemistry,7.4,0
+Chemistry,7.41,0
+Chemistry,7.42,0
+Chemistry,7.5,3058
+Chemistry,7.58,0
+Chemistry,7.6,0
+Chemistry,7.66,0
+Chemistry,7.67,0
+Chemistry,7.75,2981
+Chemistry,7.8,0
+Chemistry,7.82,0
+Chemistry,7.83,0
+Chemistry,7.91,0
+Chemistry,7.92,0
+Chemistry,8,2623
+Chemistry,8.08,0
+Chemistry,8.16,0
+Chemistry,8.17,0
+Chemistry,8.2,0
+Chemistry,8.25,2170
+Chemistry,8.33,0
+Chemistry,8.4,0
+Chemistry,8.5,1571
+Chemistry,8.58,0
+Chemistry,8.6,0
+Chemistry,8.75,1133
+Chemistry,8.8,0
+Chemistry,8.83,0
+Chemistry,9,660
+Chemistry,9.2,0
+Chemistry,9.25,412
+Chemistry,9.4,0
+Chemistry,9.5,212
+Chemistry,9.6,0
+Chemistry,9.75,111
+Chemistry,9.8,0
+Foreign Language,0,6
+Foreign Language,0.2,1
+Foreign Language,0.25,0
+Foreign Language,0.4,0
+Foreign Language,0.5,0
+Foreign Language,0.6,1
+Foreign Language,0.75,0
+Foreign Language,1,4
+Foreign Language,1.2,11
+Foreign Language,1.25,0
+Foreign Language,1.4,27
+Foreign Language,1.5,0
+Foreign Language,1.6,51
+Foreign Language,1.75,0
+Foreign Language,1.8,100
+Foreign Language,2,161
+Foreign Language,2.2,278
+Foreign Language,2.25,0
+Foreign Language,2.4,440
+Foreign Language,2.5,0
+Foreign Language,2.6,605
+Foreign Language,2.75,0
+Foreign Language,2.8,802
+Foreign Language,3,988
+Foreign Language,3.2,1207
+Foreign Language,3.25,0
+Foreign Language,3.4,1444
+Foreign Language,3.5,0
+Foreign Language,3.6,1660
+Foreign Language,3.75,0
+Foreign Language,3.8,1950
+Foreign Language,3.83,0
+Foreign Language,3.92,0
+Foreign Language,4,2026
+Foreign Language,4.08,0
+Foreign Language,4.16,0
+Foreign Language,4.2,2229
+Foreign Language,4.25,0
+Foreign Language,4.33,0
+Foreign Language,4.4,2376
+Foreign Language,4.41,0
+Foreign Language,4.42,0
+Foreign Language,4.5,0
+Foreign Language,4.58,0
+Foreign Language,4.6,2509
+Foreign Language,4.67,0
+Foreign Language,4.68,0
+Foreign Language,4.75,0
+Foreign Language,4.8,2626
+Foreign Language,4.83,0
+Foreign Language,4.9,0
+Foreign Language,4.91,0
+Foreign Language,4.92,0
+Foreign Language,5,2701
+Foreign Language,5.08,0
+Foreign Language,5.1,0
+Foreign Language,5.16,0
+Foreign Language,5.17,0
+Foreign Language,5.2,2737
+Foreign Language,5.25,0
+Foreign Language,5.3,0
+Foreign Language,5.33,0
+Foreign Language,5.34,0
+Foreign Language,5.4,2751
+Foreign Language,5.41,0
+Foreign Language,5.42,0
+Foreign Language,5.5,0
+Foreign Language,5.58,0
+Foreign Language,5.59,0
+Foreign Language,5.6,2623
+Foreign Language,5.65,0
+Foreign Language,5.66,0
+Foreign Language,5.67,0
+Foreign Language,5.75,0
+Foreign Language,5.8,2563
+Foreign Language,5.83,0
+Foreign Language,5.91,0
+Foreign Language,5.92,0
+Foreign Language,5.93,0
+Foreign Language,5.95,0
+Foreign Language,6,2337
+Foreign Language,6.08,0
+Foreign Language,6.1,0
+Foreign Language,6.15,0
+Foreign Language,6.16,0
+Foreign Language,6.17,0
+Foreign Language,6.2,2322
+Foreign Language,6.25,0
+Foreign Language,6.3,0
+Foreign Language,6.32,0
+Foreign Language,6.33,0
+Foreign Language,6.34,0
+Foreign Language,6.4,2228
+Foreign Language,6.41,0
+Foreign Language,6.42,0
+Foreign Language,6.43,0
+Foreign Language,6.45,0
+Foreign Language,6.47,0
+Foreign Language,6.5,0
+Foreign Language,6.56,0
+Foreign Language,6.58,0
+Foreign Language,6.6,2154
+Foreign Language,6.66,0
+Foreign Language,6.67,0
+Foreign Language,6.75,0
+Foreign Language,6.8,2061
+Foreign Language,6.83,0
+Foreign Language,6.91,0
+Foreign Language,6.92,0
+Foreign Language,7,2019
+Foreign Language,7.08,0
+Foreign Language,7.1,0
+Foreign Language,7.12,0
+Foreign Language,7.14,0
+Foreign Language,7.16,0
+Foreign Language,7.17,0
+Foreign Language,7.19,0
+Foreign Language,7.2,1900
+Foreign Language,7.25,0
+Foreign Language,7.3,0
+Foreign Language,7.33,0
+Foreign Language,7.34,0
+Foreign Language,7.4,1858
+Foreign Language,7.41,0
+Foreign Language,7.42,0
+Foreign Language,7.5,0
+Foreign Language,7.58,0
+Foreign Language,7.6,1913
+Foreign Language,7.66,0
+Foreign Language,7.67,0
+Foreign Language,7.75,0
+Foreign Language,7.8,1789
+Foreign Language,7.82,0
+Foreign Language,7.83,0
+Foreign Language,7.91,0
+Foreign Language,7.92,0
+Foreign Language,8,1825
+Foreign Language,8.08,0
+Foreign Language,8.16,0
+Foreign Language,8.17,0
+Foreign Language,8.2,1692
+Foreign Language,8.25,0
+Foreign Language,8.33,0
+Foreign Language,8.4,1593
+Foreign Language,8.5,0
+Foreign Language,8.58,0
+Foreign Language,8.6,1394
+Foreign Language,8.75,0
+Foreign Language,8.8,1234
+Foreign Language,8.83,0
+Foreign Language,9,961
+Foreign Language,9.2,687
+Foreign Language,9.25,0
+Foreign Language,9.4,474
+Foreign Language,9.5,0
+Foreign Language,9.6,284
+Foreign Language,9.75,0
+Foreign Language,9.8,133
