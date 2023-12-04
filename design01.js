@@ -141,13 +141,17 @@ function renderChart(filterData) {
     var yPos = mousePos[1];
 
     // Update the X-axis position line
-    xAxisLine.attr("x1", xPos)
+    xAxisLine.transition()
+        .duration(100)
+        .attr("x1", xPos)
         .attr("y1", 0)
         .attr("x2", xPos)
         .attr("y2", height);
 
     // Update the Y-axis position line
-    yAxisLine.attr("x1", 0)
+    yAxisLine.transition()
+        .duration(100)
+        .attr("x1", 0)
         .attr("y1", yPos)
         .attr("x2", width)
         .attr("y2", yPos);
