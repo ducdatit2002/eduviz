@@ -294,7 +294,7 @@ d3.csv("Data_Design2.csv", rowConverter, function (error, data) {
 
           d3.select(this)
             .select("text")
-            .text(y.invert(yCoordinate).toFixed(0))
+            .text(d.values[idx].AverageScore.toFixed(2))
             .attr("fill", function (d) {
               return color(d.key);
             });
@@ -309,10 +309,10 @@ d3.csv("Data_Design2.csv", rowConverter, function (error, data) {
       var sortingObj = [];
 
       nest.map((d) => {
-        var xDate = x.invert(mouse[0] - 20);
+        var xDate = x.invert(mouse[0]);
         var bisect = d3.bisector(function (d) {
-          return d.AverageScore;
-        }).right;
+          return d.Month;
+        }).left;
         var idx = bisect(d.values, xDate);
 
         sortingObj.push({
@@ -345,7 +345,7 @@ d3.csv("Data_Design2.csv", rowConverter, function (error, data) {
         })
         .style("font-size", 10)
         .html((d) => {
-          return d.Subject + " : " + d.AverageScore;
+          return d.Subject + " : " + /*d.Month + " : "*/ + d.AverageScore;
         });
     }
   }
