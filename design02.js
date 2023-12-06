@@ -16,7 +16,7 @@ d3.csv("Data_Design2.csv", rowConverter, function (error, data) {
       height = 600 - margin.top - margin.bottom;
     // Create the svg canvas
     var svg = d3
-      .select("body")
+      .select("#design02")
       .append("svg")
       .style("width", width + margin.left + margin.right + "px")
       .style("height", height + margin.top + margin.bottom + "px")
