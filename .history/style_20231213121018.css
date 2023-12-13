@@ -1,4 +1,4 @@
-/* Add some styles to the buttons */
+        /* Add some styles to the buttons */
 button {
     padding: 5px 15px;
     margin: 10px;
@@ -9,8 +9,8 @@ button {
     border-radius: 5px;
     cursor: pointer;
 }
-/* Style the buttons on hover */
+    
+        /* Style the buttons on hover */
 button:hover {
     background-color: #00767e;
 }
-
