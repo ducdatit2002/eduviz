@@ -96,7 +96,6 @@ body {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
-    margin-bottom: 40px;
   }
   
   .score-table th {
@@ -124,15 +123,11 @@ body {
     font-weight: 500;
     color: #000000;
     margin-top: 20px;
-    text-transform: uppercase;
-
   }
   
   p {
     color: #000000;
     margin: 5px 0;
-    text-transform: uppercase;
-
   } 
   .img-top {
     align-items: center;
