@@ -25,7 +25,7 @@ function updateChart(subject) {
 function renderChart(filterData) {
     d3.select("#design1").selectAll("*").remove(); 
 
-    var margin = { top: 100, right: 100, bottom: 20, left: 50 },
+    var margin = { top: 300, right: 100, bottom: 20, left: 50 },
         width = 1200 - margin.left - margin.right,
         height = 400 - margin.top - margin.bottom;
 

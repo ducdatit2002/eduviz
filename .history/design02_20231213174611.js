@@ -11,7 +11,7 @@ d3.csv("Data_Design2.csv", rowConverter, function (error, data) {
   } else {
     console.log(data);
     // Set the margins
-    var margin = { top: 60, right: 300, bottom: 60, left: 80 },
+    var margin = { top: 60, right: 120, bottom: 60, left: 80 },
       width = 1200 - margin.left - margin.right,
       height = 600 - margin.top - margin.bottom;
     // Create the svg canvas
@@ -48,7 +48,7 @@ d3.csv("Data_Design2.csv", rowConverter, function (error, data) {
     var color = d3
       .scaleOrdinal()
       .domain(res)
-      .range(["blue", "green", "orange", "red", "purple", "#637E76", "#DF826C", "black","cyan"]);
+      .range(["blue", "green", "orange", "red", "purple", "pink", "gold", "black","cyan"]);
 
     //  Add the X Axis
     var xaxis = svg
@@ -178,7 +178,7 @@ d3.csv("Data_Design2.csv", rowConverter, function (error, data) {
       .data(nest)
       .enter()
       .append("rect")
-      .attr("x", 830)
+      .attr("x", 120)
       .attr("y", function (d, i) {
         return i * (size + 5);
       })
@@ -196,7 +196,7 @@ d3.csv("Data_Design2.csv", rowConverter, function (error, data) {
       .data(nest)
       .enter()
       .append("text")
-      .attr("x", 830 + size * 1.2)
+      .attr("x", 1025 + size * 1.2)
       .attr("y", function (d, i) {
         return i * (size + 5) + size / 2;
       })

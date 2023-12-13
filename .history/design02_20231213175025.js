@@ -48,7 +48,7 @@ d3.csv("Data_Design2.csv", rowConverter, function (error, data) {
     var color = d3
       .scaleOrdinal()
       .domain(res)
-      .range(["blue", "green", "orange", "red", "purple", "#637E76", "#DF826C", "black","cyan"]);
+      .range(["blue", "green", "orange", "red", "purple", "#637E76", "gold", "black","cyan"]);
 
     //  Add the X Axis
     var xaxis = svg
