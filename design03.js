@@ -1,7 +1,9 @@
 // Load the CSV data
-d3.csv("Data.csv").then(function(data) {
+d3.csv("Data.csv", function(error, data) {
+    if (error) throw error;
+
     // Convert scores to numbers and handle missing values
-    data.forEach(student => {
+    data.forEach(function(student) {
         student.totalScore = calculateTotalScore(student);
     });
 
@@ -11,7 +13,7 @@ d3.csv("Data.csv").then(function(data) {
 
 function calculateTotalScore(student) {
     const subjects = ['toán', 'ngữ văn', 'khxh', 'khtn', 'lịch sử', 'địa lí', 'gdcd', 'sinh học', 'vật lí', 'hóa học', 'tiếng anh'];
-    return subjects.reduce((total, subject) => {
+    return subjects.reduce(function(total, subject) {
         return total + (student[subject] !== "" ? parseFloat(student[subject]) : 0);
     }, 0);
 }
@@ -21,7 +23,7 @@ function analyzeStudentPerformance(student) {
     let strengths = [];
     let weaknesses = [];
 
-    subjects.forEach(subject => {
+    subjects.forEach(function(subject) {
         const score = parseFloat(student[subject]);
         if (score > 8) {
             strengths.push(`${subject}: ${score}`);
@@ -37,17 +39,14 @@ function displayStudentDetails(student) {
     const detailsContainer = document.getElementById('student-details');
     detailsContainer.innerHTML = '<h2>Student Scores</h2>'; // Reset the details container
 
-    // Assuming the createScoreTable function exists and works correctly
-    // to create and return a table element with the student's scores
     const scoreTable = createScoreTable(student);
     detailsContainer.appendChild(scoreTable);
 
     const analysisResults = analyzeStudentPerformance(student);
 
-    // Create and append the strengths section
     const strengthsContainer = document.createElement('div');
     strengthsContainer.innerHTML = '<h4 style="font-weight: bold;">STRENGTHS</h4>';
-    analysisResults.strengths.forEach(str => {
+    analysisResults.strengths.forEach(function(str) {
         strengthsContainer.innerHTML += `<p>${str}</p>`;
     });
     if (analysisResults.strengths.length === 0) {
@@ -55,10 +54,9 @@ function displayStudentDetails(student) {
     }
     detailsContainer.appendChild(strengthsContainer);
 
-    // Create and append the weaknesses section
     const weaknessesContainer = document.createElement('div');
     weaknessesContainer.innerHTML = '<h4 style="font-weight: bold;">WEAKNESS</h4>';
-    analysisResults.weaknesses.forEach(weak => {
+    analysisResults.weaknesses.forEach(function(weak) {
         weaknessesContainer.innerHTML += `<p>${weak}</p>`;
     });
     if (analysisResults.weaknesses.length === 0) {
@@ -66,7 +64,6 @@ function displayStudentDetails(student) {
     }
     detailsContainer.appendChild(weaknessesContainer);
 
-    // Show the details container
     detailsContainer.style.display = 'block';
 }
 
@@ -75,10 +72,9 @@ function createScoreTable(student) {
     const table = document.createElement('table');
     table.classList.add('score-table');
 
-    // Create the table header
     const thead = document.createElement('thead');
     const headerRow = document.createElement('tr');
-    subjects.forEach(subject => {
+    subjects.forEach(function(subject) {
         const headerCell = document.createElement('th');
         headerCell.textContent = subject;
         headerRow.appendChild(headerCell);
@@ -86,12 +82,11 @@ function createScoreTable(student) {
     thead.appendChild(headerRow);
     table.appendChild(thead);
 
-    // Create the table body
     const tbody = document.createElement('tbody');
     const bodyRow = document.createElement('tr');
-    subjects.forEach(subject => {
+    subjects.forEach(function(subject) {
         const scoreCell = document.createElement('td');
-        scoreCell.textContent = student[subject] !== '-1' ? student[subject] : 'N/A'; 
+        scoreCell.textContent = student[subject] !== '-1' ? student[subject] : 'N/A';
         bodyRow.appendChild(scoreCell);
     });
     tbody.appendChild(bodyRow);
@@ -100,15 +95,16 @@ function createScoreTable(student) {
     return table;
 }
 
-
 function handleSubmit() {
     const studentId = document.getElementById('student-id').value;
     searchAndDisplayStudent(studentId);
 }
 
 function searchAndDisplayStudent(studentId) {
-    d3.csv("Data.csv").then(function(data) {
-        const student = data.find(s => s.sbd === studentId);
+    d3.csv("Data.csv", function(error, data) {
+        if (error) throw error;
+
+        var student = data.find(function(s) { return s.sbd === studentId; });
         if (student) {
             displayStudentDetails(student);
             document.getElementById('student-details').style.display = 'block';
