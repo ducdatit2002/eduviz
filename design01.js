@@ -151,7 +151,7 @@ function renderChart(filterData) {
     // Update the Y-axis position line
     yAxisLine.transition()
         .duration(100)
-        .attr("x1", 0)
+        .attr("x1", 0) 
         .attr("y1", yPos)
         .attr("x2", width)
         .attr("y2", yPos);
