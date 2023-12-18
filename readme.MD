@@ -7,8 +7,8 @@ Click here --> <a href="http://tada-project.surge.sh/" target="_blank">TADA Team
 | Index | Name                   |     ID      |              Email               | Github account             |
 |:------|:-----------------------|:-----------:|:--------------------------------:|:---------------------------|
 | 1     | Phạm Đức Đạt | ITITIU20184 | ducdatit2002@gmail.com | ducdatit2002 |
-| 2     | Phạm Lê Thanh Nhàn| ITDSIU20073 | phamlethanhnhan0707@gmail.com | iGhost22 |
-| 3     | Huỳnh Lam Đạt| ITITIU20364 | huynh.lam.dat.77@gmail.com |   pltnhan |
+| 2     | Phạm Lê Thanh Nhàn| ITDSIU20073 | phamlethanhnhan0707@gmail.com | pltnhan |
+| 3     | Huỳnh Lam Đạt| ITITIU20364 | huynh.lam.dat.77@gmail.com | iGhost22 |
 | 4     | Lê Phước Đẫu| ITITIU20185 | lephuocdau298@gmail.com | LucasLe298 |           
 
 ### Tasks and Contribution 
