@@ -1,6 +1,6 @@
 
 # Data Visualization Project 
-Click here --> <a href="http://tada-project.surge.sh/" target="_blank">TADA Team</a>
+Click here --> <a href="https://ducdatit2002.github.io/datavisualization-project/" target="_blank">TADA Team</a>
 
 ### Group: TADA TEAM
 ### Our team member
