@@ -12,17 +12,11 @@ Click here --> <a href="https://ducdatit2002.github.io/datavisualization-project
 | 4     | Lê Phước Đẫu| ITITIU20185 | lephuocdau298@gmail.com | LucasLe298 |           
 
 ### Tasks and Contribution 
-| Index | Role                                                         | Person In Charge | Contribution |
-|:------|:-------------------------------------------------------------|:--------------:|:------------:|
-| 1     | Leader     |   Đức Đạt   |          100%      |
-| 2     | Member      |   Thanh Nhàn   |          100%      |
-| 3     | Member  |  Lam Đạt     |      100%          |
-| 4     | Member |     Phước Đẫu     |          100%      |  
+| Index | Role                                                         | Person In Charge | Contribution |Tasks|
+|:------|:-------------------------------------------------------------|:--------------:|:------------:|:-------------------------------------------------------------|
+| 1     | Leader     |   Đức Đạt   |          100%      |Overall Framework, Design 01, Report, PowerPoint   |   
+| 2     | Member      |   Thanh Nhàn   |          100%      |Design 01, Report, PowerPoint    |    
+| 3     | Member  |  Lam Đạt     |      100%          | Design 02  |     
+| 4     | Member |     Phước Đẫu     |          100%      | Design 03 |       
 
 
-| Name | Tasks |
-|:------|:-------------------------------------------------------------|
-| Đức Đạt     | Overall Framework, Design 01, Report, PowerPoint   |   
-| Thanh Nhàn   | Design 01, Report, PowerPoint    |    
-| Lam Đạt    | Design 02  |     
-| Phước Đẫu   | Design 03 |      
