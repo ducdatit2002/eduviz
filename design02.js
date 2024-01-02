@@ -36,7 +36,7 @@ d3.csv("Data_Design2.csv", rowConverter, function (error, data) {
     console.log(nest);
 
     // Set the ranges
-    var x = d3.scaleLinear().domain([0, 12]).range([0, width]);
+    var x = d3.scaleLinear().domain([1, 12]).range([0, width]);
 
     var y = d3.scaleLinear().domain([0, 10]).range([height, 0]);
     // color
