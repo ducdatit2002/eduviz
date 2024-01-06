@@ -1,140 +1,205 @@
 /* Add some styles to the buttons */
 button {
-    padding: 5px 15px;
-    margin: 10px !important;
-    font-size: 16px;
-    background-color: #6EC3C9;
-    color: white;
-    border: none;
-    border-radius: 5px !important;
-    cursor: pointer;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
-    transition: background-color 0.5s;   
-
+  padding: 5px 15px;
+  margin: 10px !important;
+  font-size: 16px;
+  background-color: #6ec3c9;
+  color: white;
+  border: none;
+  border-radius: 5px !important;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  transition: background-color 0.5s;
 }
 /* Style the buttons on hover */
 button:hover {
-    background-color: #00767e;
+  background-color: #00767e;
 }
 /* General Styles */
+h3 {
+  font-weight: 300;
+  font-size: 50px; 
+  color: #000000;
+  margin-top: 20px;
+  text-transform: uppercase;
+}
 body {
-    font-family: 'Arial', sans-serif;
-    background-color: #fff;
-    color: #000000;
-    line-height: 1.6;
+  font-family: "Arial", sans-serif;
+  background-color: #fff;
+  color: #000000;
+  line-height: 1.6;
+}
+
+.container {
+  width: 50%;
+  margin: auto;
+  overflow: hidden;
+}
+
+/* Form Styles */
+div {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-size: 1.4em;
+  color: #000000;
+}
+
+input[type="text"] {
+  width: calc(100% - 50px);
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border: 2px solid #000000;
+  box-sizing: border-box;
+  background-color: #fff;
+  color: #000000;
+}
+
+#button3 {
+  display: block;
+  justify-content: center;
+  width: 20%;
+  padding: 12px;
+  background-color: #6ec3c9;
+  color: #fff;
+  border-radius: 15px;
+  border: 2px solid #6ec3c9;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  font-size: 1.1em;
+  transition: background-color 0.5s;
+}
+
+#button3:hover {
+  background-color: #00767e;
+}
+
+/* Student Details Styles */
+#student-details {
+  background: #eee;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+  margin-top: 20px;
+  max-width: 100%; /* Không cho phép container vượt quá chiều rộng màn hình */
+  overflow-x: auto; /* Cho phép cuộn ngang nếu cần */
+  box-sizing: border-box; /* Đảm bảo padding không làm tăng kích thước tổng thể */
+}
+
+#student-details h2 {
+  font-size: 1.8em;
+  color: #111;
+  margin-bottom: 20px;
+}
+
+#student-scores {
+  overflow-x: auto;
+}
+
+/* Table Styles */
+.score-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+.score-table th {
+  background-color: #6ec3c9;
+  color: #fff;
+  padding: 15px;
+  font-weight: 500;
+  text-align: center;
+  text-transform: uppercase;
+  border: 1px solid #000000;
+  font-weight: bold;
+}
+
+.score-table td {
+  padding: 12px;
+  text-align: center;
+  border: 1px solid #000000;
+  transition: background-color 0.2s;
+}
+.score-table tbody tr:nth-child(odd) {
+  background-color: #f5f5f5;
+}
+
+p {
+  color: #000000;
+  margin: 5px 0;
+  text-transform: uppercase;
+}
+.img-top {
+  align-items: center;
+  max-width: 400px;
+}
+
+/* RESPONSIVE */
+#design1 {
+  overflow-x: scroll; /* Cho phép cuộn ngang nếu nội dung vượt quá kích thước màn hình */
+  -webkit-overflow-scrolling: touch; /* Cho phép cuộn mượt mà trên iOS */
+}
+@media (max-width: 600px) {
+  #button-container-des1 {
+    width: 100%; /* Container chiếm đầy màn hình */
   }
-  
-  .container {
-    width: 50%;
-    margin: auto;
-    overflow: hidden;
+
+  #button-container-des1 button {
+    display: inline-block; /* Mỗi nút hiển thị trên một hàng riêng */
+    width: fixed; /* Nút chiếm đầy chiều rộng */
+    box-sizing: border-box; /* Đảm bảo padding không làm cho nút vượt quá chiều rộng đã đặt */
+    margin: 2px 0; /* Khoảng cách giữa các nút */
+    padding: 8px; /* Padding nhỏ hơn */
+    font-size: 14px; /* Font nhỏ hơn */
+    text-align: left; /* Căn chỉnh văn bản sang trái */
+    border-radius: 4px; /* Tùy chọn: Bo góc cho nút */
+    /* Thêm các thuộc tính khác tùy ý */
   }
-  
-  /* Form Styles */
-  div {
-    margin-bottom: 20px;
-  }
-  
-  label {
-    display: block;
-    margin-bottom: 5px;
-    font-size: 1.4em;
-    color: #000000;
-  }
-  
-  input[type="text"] {
-    width: calc(100% - 50px);
-    padding: 10px;
-    margin-bottom: 10px;
-    border-radius: 5px;
-    border: 2px solid #000000;
-    box-sizing: border-box;
-    background-color: #fff;
-    color: #000000;
-  }
-  
-  #button3 {
-    display: block;
-    justify-content: center;
-    width: 20%;
-    padding: 12px;
-    background-color: #6EC3C9;
-    color: #fff;
-    border-radius: 15px ;
-    border: 2px solid #6EC3C9;
-    cursor: pointer;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
-    font-size: 1.1em;
-    transition: background-color 0.5s;   
-  }
-  
-  #button3:hover {
-    background-color: #00767e;
-  }
-  
-  /* Student Details Styles */
+}
+
+#design02 {
+  overflow-x: auto;
+}
+
+@media only screen and (max-width: 600px) {
   #student-details {
-    background: #eee;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
-    margin-top: 20px;
+    padding: 10px;
+    margin-top: 10px;
   }
-  
+
   #student-details h2 {
-    font-size: 1.8em;
-    color: #111;
-    margin-bottom: 20px;
+    font-size: 1.4em; /* Phông chữ nhỏ hơn */
+    margin-bottom: 10px;
   }
-  
-  #student-scores {
-    overflow-x: auto;
-  }
-  
-  /* Table Styles */
-  .score-table {
-    width: 100%;
-    border-collapse: collapse;
-    margin-top: 20px;
-    margin-bottom: 40px;
-  }
-  
-  .score-table th {
-    background-color: #6EC3C9;
-    color: #fff;
-    padding: 15px;
-    font-weight: 500;
-    text-align: center;
-    text-transform: uppercase;
-    border: 1px solid #000000;
-    font-weight: bold;
-  }
-  
+
+  .score-table th,
   .score-table td {
-    padding: 12px;
-    text-align: center;
-    border: 1px solid #000000;
-    transition: background-color 0.2s;
+    padding: 8px; /* Đệm nhỏ hơn */
+    font-size: 0.8em; /* Phông chữ nhỏ hơn */
   }
-  .score-table tbody tr:nth-child(odd) {
-    background-color: #f5f5f5;
+
+  /* Nếu bảng vẫn quá rộng, bạn có thể đặt font-size nhỏ hơn nữa hoặc thay đổi cách hiển thị các cột */
+}
+@media only screen and (max-width: 600px) {
+  #student-id {
+    width: 100%; /* Cho phép input chiếm toàn bộ chiều rộng */
+    margin-bottom: 10px; /* Thêm khoảng cách dưới input */
   }
-  
+
+  #button3 {
+    width: 100%; /* Nút chiếm toàn bộ chiều rộng */
+  }
+}
+
+/* Media query for mobile devices */
+@media (max-width: 600px) {
   h3 {
-    font-weight: 500;
-    color: #000000;
-    margin-top: 20px;
-    text-transform: uppercase;
-
+    font-size: 30px; /* Giảm kích thước phông chữ trên thiết bị di động */
+    margin-top: 10px; /* Giảm khoảng cách trên cùng để phù hợp với không gian nhỏ hơn */
   }
-  
-  p {
-    color: #000000;
-    margin: 5px 0;
-    text-transform: uppercase;
-
-  } 
-  .img-top {
-    align-items: center;
-    max-width: 400px;
-  }
+}

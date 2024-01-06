@@ -15,16 +15,29 @@ d3.csv("Data_Design2.csv", rowConverter, function (error, data) {
       width = 1200 - margin.left - margin.right,
       height = 600 - margin.top - margin.bottom;
     // Create the svg canvas
+    // var svg = d3
+    //   .select("#design02")
+    //   .append("svg")
+    //   .style("width", width + margin.left + margin.right + "px")
+    //   .style("height", height + margin.top + margin.bottom + "px")
+    //   .attr("width", width + margin.left + margin.right)
+    //   .attr("height", height + margin.top + margin.bottom)
+    //   .append("g")
+    //   .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+    //   .attr("class", "svg");
+
     var svg = d3
       .select("#design02")
       .append("svg")
-      .style("width", width + margin.left + margin.right + "px")
-      .style("height", height + margin.top + margin.bottom + "px")
-      .attr("width", width + margin.left + margin.right)
-      .attr("height", height + margin.top + margin.bottom)
+      .attr(
+        "viewBox",
+        "0 0 " +
+          (width + margin.left + margin.right) +
+          " " +
+          (height + margin.top + margin.bottom)
+      )
       .append("g")
-      .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
-      .attr("class", "svg");
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
     //NEST : group data by country
     var nest = d3
@@ -48,7 +61,17 @@ d3.csv("Data_Design2.csv", rowConverter, function (error, data) {
     var color = d3
       .scaleOrdinal()
       .domain(res)
-      .range(["blue", "green", "orange", "red", "purple", "#637E76", "#DF826C", "black","cyan"]);
+      .range([
+        "blue",
+        "green",
+        "orange",
+        "red",
+        "purple",
+        "#637E76",
+        "#DF826C",
+        "black",
+        "cyan",
+      ]);
 
     //  Add the X Axis
     var xaxis = svg
@@ -345,7 +368,7 @@ d3.csv("Data_Design2.csv", rowConverter, function (error, data) {
         })
         .style("font-size", 10)
         .html((d) => {
-          return d.Subject + " : " + /*d.Month + " : "*/ + d.AverageScore;
+          return d.Subject + " : " + /*d.Month + " : "*/ +d.AverageScore;
         });
     }
   }
