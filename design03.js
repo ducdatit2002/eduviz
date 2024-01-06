@@ -4,14 +4,21 @@ var margin = { top: 120, right: 400, bottom: 20, left: 50 },
         height = 500 - margin.top - margin.bottom;
 
 // append the svg object to the body of the page
+// var svg = d3.select("#stackbar")
+//   .append("svg")
+//     .attr("width", width + margin.left + margin.right)
+//     .attr("height", height + margin.top + margin.bottom)
+//   .append("g")
+//     .attr("transform",
+//           "translate(" + margin.left + "," + margin.top + ")");
+
 var svg = d3.select("#stackbar")
   .append("svg")
-    .attr("width", width + margin.left + margin.right)
-    .attr("height", height + margin.top + margin.bottom)
+    .attr("viewBox", "0 0 " + (width + margin.left + margin.right) + " " + (height + margin.top + margin.bottom))
   .append("g")
-    .attr("transform",
-          "translate(" + margin.left + "," + margin.top + ")");
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
+    
 var barWidth = 80;
 var x0 = d3.scaleBand().range([0, width]);
 

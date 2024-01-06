@@ -29,12 +29,16 @@ function renderChart(filterData) {
         width = 1200 - margin.left - margin.right,
         height = 400 - margin.top - margin.bottom;
 
-    var svg = d3.select("#design1")
+        var svg = d3.select("#design1")
         .append("svg")
-        .attr("width", width + margin.left + margin.right)
-        .attr("height", height + margin.top + margin.bottom)
+        // Thêm thuộc tính viewBox với các giá trị x, y, width, và height
+        .attr("viewBox", "0 0 " + (width + margin.left + margin.right) + " " + (height + margin.top + margin.bottom))
+        // Loại bỏ các thuộc tính width và height cố định hoặc đặt chúng thành 100%
+        .attr("width", "100%")  // Bạn có thể bỏ qua thuộc tính này nếu bạn sử dụng viewBox
+        .attr("height", "100%") // Bạn có thể bỏ qua thuộc tính này nếu bạn sử dụng viewBox
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
 
     var xScale = d3.scaleLinear()
         .domain([0, 10])
@@ -163,7 +167,10 @@ function renderChart(filterData) {
     // Set the tooltip's position
     tooltip.style("left", tooltipXPos + "px")
         .style("top", tooltipYPos + "px");
-    })
+    }).on("mouseout", function() {
+        // Ẩn tooltip và đặt lại vị trí
+        tooltip.style("display", "none");
+      });
 } 
 updateChart('Math'); // Default subject to display initially
 // Add this code to your test.js file
