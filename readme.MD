@@ -14,9 +14,9 @@ Click here --> <a href="https://ducdatit2002.github.io/datavisualization-project
 ### Tasks and Contribution 
 | Index | Role                                                         | Person In Charge | Contribution |Tasks|
 |:------|:-------------------------------------------------------------|:--------------:|:------------:|:-------------------------------------------------------------|
-| 1     | Leader     |   Đức Đạt   |          100%      |Overall Framework, Design 01, Report, PowerPoint   |   
-| 2     | Member      |   Thanh Nhàn   |          100%      |Design 01, Report, PowerPoint    |    
-| 3     | Member  |  Lam Đạt     |      100%          | Design 02  |     
-| 4     | Member |     Phước Đẫu     |          100%      | Design 03 |       
+| 1     | Leader     |   Đức Đạt   |          25%      |Overall Framework, Design 01, Design 03, Report, PowerPoint   |   
+| 2     | Member      |   Thanh Nhàn   |          25%     |Design 01, Design 03, Report, PowerPoint    |    
+| 3     | Member  |  Lam Đạt     |      25%         | Design 02  |     
+| 4     | Member |     Phước Đẫu     |         25%     | Design 04 |       
 
 
