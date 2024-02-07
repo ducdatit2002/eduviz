@@ -4,6 +4,8 @@ Click here --> <a href="https://ducdatit2002.github.io/datavisualization-project
 
 ### TOPIC: ANALYZING THE 2020 HIGH SCHOOL GRADUATION EXAM SCORES IN HO CHI MINH CITY THROUGH WEB-BASED INTERACTIVE VISUALIZATION
 
+### FRAMEWORK: JavaScript (D3.js)
+
 ### Group: TADA TEAM
 ### Our team member
 | Index | Name                   |     ID      |              Email               | Github account             |
