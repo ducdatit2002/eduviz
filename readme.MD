@@ -2,6 +2,8 @@
 # Data Visualization Project 
 Click here --> <a href="https://ducdatit2002.github.io/datavisualization-project/" target="_blank">TADA Team</a>
 
+***TOPIC: ANALYZING THE 2020 HIGH SCHOOL GRADUATION EXAM SCORES IN HO CHI MINH CITY THROUGH WEB-BASED INTERACTIVE VISUALIZATION
+
 ### Group: TADA TEAM
 ### Our team member
 | Index | Name                   |     ID      |              Email               | Github account             |
